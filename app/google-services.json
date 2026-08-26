@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639601944396",
+    "project_id": "farmxpert-5c502",
+    "storage_bucket": "farmxpert-5c502.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639601944396:android:cfd797fd8fea9bbf3f11e9",
+        "android_client_info": {
+          "package_name": "com.example.framxpert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgV9nl14F69Ng0JEKtp8a7QAPFAiHbnEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
