@@ -6,9 +6,6 @@ An Android app to help farmers.
 - Weather info
 - Farmer friendly UI
 
-## APK Link
-Download from Releases
-
 ## Built With
 - Android Studio/ Java
 
