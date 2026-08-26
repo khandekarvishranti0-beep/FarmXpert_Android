@@ -10,6 +10,6 @@ An Android app to help farmers.
 Download from Releases
 
 ## Built With
-- Android Studio / Kotlin / Java
+- Android Studio/ Java
 
 Developed by: Vishranti Khandekar
